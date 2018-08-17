@@ -1,1 +1,1 @@
-# Tsallis-entropy-for-image-thresholding
+# Tsallis entropy for image thresholding
