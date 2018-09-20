@@ -7,7 +7,7 @@ Para essa pesquisa foi utilizado a proposta de segmentação recursiva, em que a
 _Segue abaixo alguns dos resultados obtidos:_ 
 
 
-| Imagem | Uma segmentação | Quatro segmentações |
+| Imagem | Uma segmentação | Duas segmentações |
 | ------------- | ------------- | ------------- |
 | ![](images/55067/55067.jpg.jpg?raw=true) | ![](images/55067/1.116.jpg?raw=true) | ![](images/55067/2.59-178.jpg?raw=true) |
 |  | _T = 116_ |  _T1 = 59 e T2 = 178_ |
