@@ -6,8 +6,7 @@ Para essa pesquisa foi utilizado a proposta de segemntação recursiva, em que a
 
 _Segue abaixo alguns dos resultados obtidos:_
 
-Descrição | Imagem
---- | --- 
-Original | ![][encurtador.net/jkxZ5]
-T = 87 | ![][encurtador.net/jorUX]
-T1 = 60, T2 = 144 ![][encurtador.net/zCEQ1]
+1.
+![Imagem original][encurtador.net/jkxZ5]
+![T = 87][encurtador.net/jorUX]
+![T1 = 60, T2 = 144][encurtador.net/zCEQ1]
