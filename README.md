@@ -10,9 +10,7 @@ _Segue abaixo alguns dos resultados obtidos:_
 | ------------- |
 | (images/55067/55067.jpg.jpg?raw=true) |
 | _Imagem 1 original_ |
-| ------------- |
 | ![T = 87](images/55067/1.116.jpg?raw=true) |
 | _Imagem 1 segmentada com limiar T = 87_ |
-| ------------- |
 | ![T1 = 59, T2 = 178](images/55067/2.59-178.jpg?raw=true) |
 | _Imagem 1 segmentada com limiar T1 = 59 e T2 = 178_ |
