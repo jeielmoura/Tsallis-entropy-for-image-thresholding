@@ -6,6 +6,6 @@ Para essa pesquisa foi utilizado a proposta de segemntação recursiva, em que a
 
 _Segue abaixo alguns dos resultados obtidos:_
 
-1. ![Imagem original][images/55067/55067.jpg.jpg?raw=true]
-	1. ![T = 87][images/55067/1.116.jpg?raw=true]
-	2. ![T1 = 59, T2 = 178][images/55067/2.59-178.jpg?raw=true]
+1. ![_Imagem original_](images/55067/55067.jpg.jpg?raw=true)
+	1. ![_T = 87_](images/55067/1.116.jpg?raw=true)
+	2. ![_T1 = 59, T2 = 178_](images/55067/2.59-178.jpg?raw=true)
